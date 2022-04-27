@@ -1,3 +1,18 @@
+/*CONNECTIONS
+SERVO WIRE CONNECTIONS
+----------------------------
+SERVO WIRE       ARDUINO PIN
+RED WIRE    =     5V
+BLACK WIRE  =    GND
+ORANGE WIRE =   DIGITAL PIN 12
+
+ULTRASONIC SENSOR CONNECTIONS
+ULTRASONIC SENSOR PIN   |   ARDUINO PIN
+VCC                     |   5V
+GND                     |   GND
+TRIGPIN                 |   DIGITAL PIN 10   
+ECHOPIN                 |   DIGITAL PIN 11
+*/
 #include <Servo.h>. 
 // Defines Tirg and Echo pins of the Ultrasonic Sensor
 const int trigPin = 10;
