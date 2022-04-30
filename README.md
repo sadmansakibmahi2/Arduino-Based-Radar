@@ -41,5 +41,4 @@ Follow this steps to code your arduino
 | BLACK WIRE  | GND |
 | RED WIRE  | 5V  |
 
-![Servo Wire Image](https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/Image/Servo_Connections.png)
 <img width="40%" img hight="40%" src="https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/Image/Servo_Connections.png">
