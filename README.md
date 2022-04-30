@@ -57,3 +57,7 @@ ULTRASONIC SENSOR CONNECTIONS:
 | TRIGPIN  | DIGITAL PIN 10  |
 | ECHOPIN  | DIGITAL PIN 11  |
 
+
+
+<img width="40%" img hight="40%" src="https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/Image/ULTRA%20SONIC.jpg">
+
