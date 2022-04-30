@@ -62,3 +62,19 @@ ULTRASONIC SENSOR CONNECTIONS:
 
 <img width="40%" img hight="40%" src="https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/Image/ULTRA%20SONIC.jpg">
 
+
+
+
+## Processing Setup
+Follow this steps to code your Processing Software
+
+1)Download the github repository for this link. Click the code button and then click the download zip botton
+
+[ Arduino-Based-Radar](https://github.com/sadmansakibmahi2/Arduino-Based-Radar)
+
+2)Unzip the Folder and open the rader_view.pde file 
+
+3)Cheek your arduino port number and change the code port number if necessary.Than connect your arduino.
+
+3)click the run bottom on Processing Software.
+
