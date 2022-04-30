@@ -26,19 +26,34 @@ Follow this steps to code your arduino
 
 2)Open your arduino ide and past the code .Compile the code and upload it in your arduino. Please make sure that you hake selected the right COM(port)
 
+
 ## Components and Connections
 
-[Arduino IDE](https://www.arduino.cc/en/software)
+[ULTRASONIC SENSOR](https://www.daraz.com.bd/catalog/?q=ultrasonic+sensor&_keyori=ss&from=input)
 
-[Processing](https://processing.org/download)
+[SERVO](https://www.daraz.com.bd/catalog/?q=servo+motor&_keyori=ss&clickTrackInfo=textId--8508900868611874256__abId--235496__pvid--b6cd1d1f-e365-4f53-8801-89790b7d74a0__matchType--1__srcQuery--None__spellQuery--servo+motor&from=suggest_normal&sugg=servo+motor_0_1)
 
 
-[Arduino IDE](https://www.arduino.cc/en/software)
+[ARDUINO](https://www.daraz.com.bd/catalog/?q=arduino+uno&_keyori=ss&from=input)
 
-| Servo Wire | Arduino Pin |
+SRVO CONNECTIONS:
+
+| SERVO WIRE | ARDUINO PIN |
 | ------------- | ------------- |
-| Yellow(signal)  | DIGITAL PIN 12  |
+| Yellow(singnal)  | DIGITAL PIN 12  |
 | BLACK WIRE  | GND |
 | RED WIRE  | 5V  |
 
+
 <img width="40%" img hight="40%" src="https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/Image/Servo_Connections.png">
+
+
+ULTRASONIC SENSOR CONNECTIONS:
+
+| ULTRASONIC SENSOR | ARDUINO PIN |
+| ------------- | ------------- |
+| VCC   | DIGITAL PIN 12  |
+| GND   | GND |
+| TRIGPIN  | DIGITAL PIN 10  |
+| ECHOPIN  | DIGITAL PIN 11  |
+
