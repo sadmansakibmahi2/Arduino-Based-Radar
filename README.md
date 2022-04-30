@@ -41,7 +41,7 @@ SRVO CONNECTIONS:
 
 | SERVO WIRE | ARDUINO PIN |
 | ------------- | ------------- |
-| Yellow(singnal)  | DIGITAL PIN 12  |
+| Yellow(signal)  | DIGITAL PIN 12  |
 | BLACK WIRE  | GND |
 | RED WIRE  | 5V  |
 
