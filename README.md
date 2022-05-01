@@ -53,7 +53,7 @@ ULTRASONIC SENSOR CONNECTIONS:
 
 | ULTRASONIC SENSOR | ARDUINO PIN |
 | ------------- | ------------- |
-| VCC   | DIGITAL PIN 12  |
+| VCC   | 5V  |
 | GND   | GND |
 | TRIGPIN  | DIGITAL PIN 10  |
 | ECHOPIN  | DIGITAL PIN 11  |
