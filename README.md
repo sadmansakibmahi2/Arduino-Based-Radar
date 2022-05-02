@@ -25,7 +25,7 @@ Follow this steps to code your arduino
 
 [Arduino code](https://github.com/sadmansakibmahi2/Arduino-Based-Radar/blob/main/rader_code/rader_code.ino)
 
-2)Open your arduino ide and past the code .Compile the code and upload it in your arduino. Please make sure that you hake selected the right COM(port)
+2)Open your arduino ide and past the code .Compile the code and upload it in your arduino. Please make sure that you have selected the right COM(port)
 
 
 ## Components and Connections
